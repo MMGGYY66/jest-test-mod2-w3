@@ -1,0 +1,22 @@
+{
+  "name": "jest-test-mod2-w3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MMGGYY66/jest-test-mod2-w3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MMGGYY66/jest-test-mod2-w3/issues"
+  },
+  "homepage": "https://github.com/MMGGYY66/jest-test-mod2-w3#readme",
+  "devDependencies": {
+    "jest": "^29.4.0"
+  }
+}
